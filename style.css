@@ -10,7 +10,7 @@ header {
 
 nav a {
   background-color: rgb(225, 225, 225);
-  background-color: 200%;
+  width: 300;
 }
 
 img {
