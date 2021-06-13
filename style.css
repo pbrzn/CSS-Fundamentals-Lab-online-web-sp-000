@@ -8,6 +8,10 @@ header {
   text-align: center;
 }
 
+nav {
+  background_color: gray;
+}
+
 img {
   display: block;
   margin-left: auto;
