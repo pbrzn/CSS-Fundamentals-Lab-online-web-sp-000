@@ -32,7 +32,7 @@ figcaption {
 
 #details {
   display: block;
-  width: auto;
+  margin-right: auto;
 }
 
 #details div {
